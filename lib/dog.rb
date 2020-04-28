@@ -1,4 +1,4 @@
-def Dog 
+Class Dog 
   
 end
 
